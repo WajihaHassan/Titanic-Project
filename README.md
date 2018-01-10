@@ -25,9 +25,9 @@ Response1:
 Color scheme selection is revised in the new chart.
 
 Feedback2: 
-The categories on X axis are not consistent. the color scheme chosen for survived and dead counts is not differentiating. 
+The categories on X axis are not consistent. the naming chosen for survived and perished can be edited for easier understanding. 
 Response2:
-The color scheme adjusted and X ais categories are aligned for all charts.
+The color scheme adjusted and X ais categories are aligned for all charts. Naming also revised.
 
 Feedback3:
 Along with counts, percentages should also be visible. this will give viewers a better understanding of overall picture versus exact counts
