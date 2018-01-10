@@ -18,7 +18,23 @@ Passenger survival count is analysed using Sex, Age and Passenger Class.
 Graph shows a dimension with its survival rate.
 
 Feedback:
-Yet to recieve
+
+Feedback1:
+Color scheme chosen for survived and dead can be revised. Dead could be resresented by a darker color while survived with a slightly lighter color.
+Response1:
+Color scheme selection is revised in the new chart.
+
+Feedback2: 
+The categories on X axis are not consistent. the color scheme chosen for survived and dead counts is not differentiating. 
+Response2:
+The color scheme adjusted and X ais categories are aligned for all charts.
+
+Feedback3:
+Along with counts, percentages should also be visible. this will give viewers a better understanding of overall picture versus exact counts
+Response3:
+Two buttons for counts and percentages are added for better understanding and interaction.
+
+
 
 Resources:
 
